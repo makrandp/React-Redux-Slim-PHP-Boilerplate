@@ -4,7 +4,9 @@
   "description": "react-redux-slim3-php-boilerplate",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "npm run app:start",
+    "app:start": "webpack-dev-server --mode development --hot",
+    "build": "webpack --mode production"
   },
   "repository": {
     "type": "git",
