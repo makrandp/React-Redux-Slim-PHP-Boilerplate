@@ -1,5 +1,5 @@
-# React-Redux-Slim-PHP-Boilerplate
+# React Slim-PHP Boilerplate
 
-### React Redux Slim3 PHP Framework Template
+### React, Redux, Slim3, PHP
 
 #### Project in progress
