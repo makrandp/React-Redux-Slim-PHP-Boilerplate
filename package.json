@@ -11,6 +11,19 @@
     "type": "git",
     "url": "git+https://github.com/makrandp/React-Redux-Slim-PHP-Boilerplate.git"
   },
+  "keywords": [
+    "react",
+    "redux",
+    "slim3",
+    "PHP",
+    "slim-PHP",
+    "webpack",
+    "webpack 3",
+    "babel",
+    "babel 7",
+    "boilerplate",
+    "template"
+  ],
   "author": "Makrand Anil Patil",
   "license": "ISC",
   "bugs": {
