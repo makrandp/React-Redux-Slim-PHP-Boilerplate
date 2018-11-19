@@ -25,7 +25,7 @@
     "template"
   ],
   "author": "Makrand Anil Patil",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/makrandp/React-Redux-Slim-PHP-Boilerplate/issues"
   },
