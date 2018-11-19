@@ -4,8 +4,7 @@
   "description": "react-redux-slim3-php-boilerplate",
   "main": "index.js",
   "scripts": {
-    "start": "npm run app:start",
-    "app:start": "webpack-dev-server --mode development --hot",
+    "start": "webpack-dev-server --mode development --hot",
     "build": "webpack --mode production"
   },
   "repository": {
